@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Carla McRae",
+    "link": "http://thepaperbeast.com.au/",
+    "img": "carla.jpg"
+  },
+  {
+    "name": "Sarah McNeil",
+    "link": "http://400pencils.com/",
+    "img": "sarah.jpg"
+  },
+  {
+    "name": "Andrew Fulton",
+    "link": "http://mumblier.com",
+    "img": "andrew.jpg"
+  },
+  {
+    "name": "Ben Juers",
+    "link": "http://benjuers.tumblr.com",
+    "img": "ben.jpg"
+  },
+  {
+    "name": "Marijka Gooding",
+    "link": "http://marijkagooding.tumblr.com/",
+    "img": "marijka.jpg"
+  },
+  {
+    "name": "Nicky Minus",
+    "link": "http://nickyminuscomics.tumblr.com/",
+    "img": "nicky.jpg"
+  },
+  {
+    "name": "Michael Fikaris",
+    "link": "http://www.fikarisart.com/",
+    "img": "fikaris.jpg"
+  },
+  {
+    "name": "Rafferty Amor",
+    "link": "http://raff-amor.tumblr.com/",
+    "img": "rafferty.jpg"
+  },
+  {
+    "name": "Bailey Sharp",
+    "link": "http://baileysharp.tumblr.com",
+    "img": "bailey.jpg"
+  },
+  {
+    "name": "The Seven Seas",
+    "link": "http://www.the-seven-seas.com",
+    "img": "seven-seas.jpg"
+  },
+  {
+    "name": "Neale Blanden",
+    "link": "http://nealeb.tumblr.com/",
+    "img": "blanden.jpg"
+  },
+  {
+    
+    "img": "og.jpg",
+    "link": "http://www.amplifiedpress.com/",
+    "artists":[
+        {
+            "name": "George Rex"
+        },
+        {
+            "name": "Owen Heitmann"
+        }
+    ]
+  }
+]

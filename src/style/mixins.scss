@@ -1,0 +1,14 @@
+@mixin breakpoint($class) {
+  @if $class == small {
+    @media (max-width: 399px) { @content; }
+  }
+ 
+  @else if $class == medium {
+    @media (min-width: 400px) { @content; }
+  }
+ 
+  @else if $class == large {
+    @media (min-width: 800px) { @content; }
+  }
+ 
+}

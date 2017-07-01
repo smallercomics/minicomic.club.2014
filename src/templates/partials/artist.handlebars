@@ -1,0 +1,12 @@
+<li>
+    <a title="{{ name }}" href="{{ link }}">
+        <img src="img/{{ asset img }}"/>
+        {{#if artists}}
+            <p>{{#each artists}}
+                <span class="name">{{ name }}</span>
+            {{/each }}</p>
+        {{else}}
+            <p class="name">{{ name }}</p>
+        {{/if}}
+    </a>
+</li>
