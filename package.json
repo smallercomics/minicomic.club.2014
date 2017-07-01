@@ -1,11 +1,10 @@
 {
-  "name": "minicomic.club.2013",
+  "name": "minicomic.club.2014",
   "version": "1.0.0",
-  "description": "Website for minicomic.club/2013",
-  "main": "index.js",
+  "description": "Website for minicomic.club/2014",
   "author": "andrew@smallercomics.com",
   "repository": {
-    "github": "https://github.com/smallercomics/minicomic.club.2013"
+    "github": "https://github.com/smallercomics/minicomic.club.2014"
   },
   "license": "MIT",
   "scripts": {

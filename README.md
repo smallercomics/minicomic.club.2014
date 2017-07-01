@@ -1,6 +1,6 @@
-# Minicomic of the month club 2013
+# Minicomic of the month club 2014
 
-Minicomic.club brings you and your mailbox a years worth of minicomics and zines from some of Australia's most interesting cartoonists and comics-makers. This was the website for it for the 2013 season
+Minicomic.club brings you and your mailbox a years worth of minicomics and zines from some of Australia's most interesting cartoonists and comics-makers. This was the website for it for the 2014 season
 
 * `yarn` to install dependencies
 * `yarn dev` to run dev server
